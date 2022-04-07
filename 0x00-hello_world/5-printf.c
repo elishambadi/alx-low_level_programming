@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * Main function
+ * main - main function
+ *
+ * Return: 0 to close program
  */
 int main(void)
 {
