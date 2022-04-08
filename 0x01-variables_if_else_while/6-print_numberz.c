@@ -16,6 +16,6 @@ int main(void)
 		i++;
 		tmp++;
 	}
-	putchar('$');
+	putchar('\n');
 	return (0);
 }
