@@ -18,8 +18,8 @@ int main(void)
 	{
 		char b = alpha[i];
 
-		
-		if ( b != 'q' && b != 'e')
+
+		if (b != 'q' && b != 'e')
 		{
 			printf("%c", b);
 		}
