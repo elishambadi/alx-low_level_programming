@@ -13,19 +13,20 @@ int main(void)
 		'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r',
 		's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
 	int i = 0;
-	char alpha_reverse[26]; 
+	char alpha_reverse[26];
 
-	while (i != 26)
+	while (i < 26)
 	{
-		alpha_reverse[26-i] = alpha[i];
+		alpha_reverse[25 - i] = alpha[i];
+		printf("This is i: %d, array new is %c, old is %c \n", i, alpha_reverse[26-i], alpha[i]);
 		i++;
 	}
 
 	i = 0;
 
-	while (i != 27)
+	while (i < 26)
 	{
-		printf("%c",alpha_reverse[i]);
+		printf("%c", alpha_reverse[i]);
 		i++;
 	}
 
