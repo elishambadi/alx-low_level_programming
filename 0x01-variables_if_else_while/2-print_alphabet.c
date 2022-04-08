@@ -18,7 +18,7 @@ int main(void)
 		char b = alpha[i];
 
 		printf("%c",b);
-		i++i;
+		i++;
 	}
 	printf("\n");
 	return (0);
