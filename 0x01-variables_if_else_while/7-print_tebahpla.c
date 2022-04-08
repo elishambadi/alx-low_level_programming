@@ -18,7 +18,6 @@ int main(void)
 	while (i < 26)
 	{
 		alpha_reverse[25 - i] = alpha[i];
-		printf("This is i: %d, array new is %c, old is %c \n", i, alpha_reverse[26-i], alpha[i]);
 		i++;
 	}
 
