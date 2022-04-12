@@ -12,7 +12,7 @@
 void _putchar(char c);
 
 /**
- *abs - returns absolute value of int
+ *_abs - returns absolute value of int
  *@n: int variable
  *Return: 0 to terminate program
  */
