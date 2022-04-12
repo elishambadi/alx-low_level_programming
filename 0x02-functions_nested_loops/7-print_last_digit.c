@@ -6,7 +6,7 @@
  *
  *Return: 0 just prints
  */
-void _putchar(void);
+void _putchar(char c);
 
 /**
  *print_last_digit - prints last digit of integer
@@ -16,6 +16,7 @@ void _putchar(void);
  */
 int print_last_digit(int i)
 {
-	int dgt = abs(i % 10);
-	return (dgt);
+	int c = abs(i % 10);
+	printf("%d is char", c);
+	return (c);
 }
