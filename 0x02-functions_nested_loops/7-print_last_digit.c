@@ -3,6 +3,11 @@
 
 void _putchar(char c);
 
+/**
+ *print - prints integer using putchar
+ *@n: integer to putchar
+ *
+ */
 void print(int n)
 {
 	if (n < 0)
@@ -25,6 +30,7 @@ void print(int n)
 int print_last_digit(int i)
 {
 	int c = abs(i % 10);
+
 	print(c);
 	return (c);
 }
