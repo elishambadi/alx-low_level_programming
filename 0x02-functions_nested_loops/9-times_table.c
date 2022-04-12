@@ -4,33 +4,33 @@
 
 void _putchar(char c);
 
+void print(int n)
+{
+	if (n < 0)
+	{
+		_putchar('-');
+		n = -n;
+	}
+
+	if (n / 10)
+		print(n / 10);
+
+	_putchar(n % 10 + '0');
+}
+
 void times_table(void)
 {
 	int i = 0;
 	int j = 0;
 	int prod;
 
-	int one;
-	int two;
-
 	while (i <= 9){
 		while (j <= 9)
 		{
 			prod = i * j;
-
-			if (prod > 9){
-				one = prod / 10;
-				two = prod % 10;
-
-				printf("%d", one);
-				printf("%d ,", two);
-			}
-			else
-			{
-				one = prod;
-				printf("%d ,", one);
-			}
-
+			print(prod);
+			_putchar(',');
+			_putchar(' ');
 			j++;
 		}
 		i++;
