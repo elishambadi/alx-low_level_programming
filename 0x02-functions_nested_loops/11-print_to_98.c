@@ -4,7 +4,7 @@ void _putchar(char c);
 
 /**
  *print - prints an integer
- *&n - integer to print
+ *@n: integer to print
  *
  *Return: void
  */
@@ -24,7 +24,7 @@ void print(int n)
 
 /**
  *print_to_98 - print numbers to 98 forward or backward
- *&n - starting integer
+ *@n: starting integer
  *
  *Return: void
  */
