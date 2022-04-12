@@ -4,6 +4,11 @@
 
 void _putchar(char c);
 
+/**
+ *print - print int
+ *@n: int to print
+ *
+ */
 void print(int n)
 {
 	if (n < 0)
@@ -18,23 +23,30 @@ void print(int n)
 	_putchar(n % 10 + '0');
 }
 
+/**
+ *times_table - print 9 multi table
+ */
 void times_table(void)
 {
 	int i = 0;
 	int j = 0;
 	int prod;
 
-	while (i <= 9){
+	while (i <= 9)
+	{
 		while (j <= 9)
 		{
 			prod = i * j;
 			print(prod);
-			_putchar(',');
-			_putchar(' ');
+			if (j != 9)
+			{
+				_putchar(',');
+				_putchar(' ');
+			}
 			j++;
 		}
 		i++;
 		j = 0;
-		printf("\n");
+		_putchar('\n');
 	}
 }
