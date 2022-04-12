@@ -4,14 +4,15 @@
 
 /**
  *_putchar - prints a character
- *&char c - character to be printed
+ *@c: - character to be printed
  *
  *Return: void
  */
 void _putchar(char c);
 
 /**
- *print_alphabet - prints the alphabet
+ *_isalpha - checks if part of alphabets
+ *@c: int to check
  *
  *Return: 0 to terminate program
  */
