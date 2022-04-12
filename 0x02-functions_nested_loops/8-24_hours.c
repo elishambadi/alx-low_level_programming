@@ -2,6 +2,9 @@
 
 void _putchar(char c);
 
+/**
+ *jack_bauer - display time from 0000 to 2359
+ */
 void jack_bauer(void)
 {
 
@@ -16,9 +19,10 @@ void jack_bauer(void)
 		{
 			while (j <= '9')
 			{
-				while ( k < '6')
+				while (k < '6')
 				{
-					while (l <= '9'){
+					while (l <= '9')
+					{
 						_putchar(i);
 						_putchar(j);
 						_putchar(':');
@@ -37,12 +41,14 @@ void jack_bauer(void)
 			j = '0';
 		}
 
-		if (i == '2'){
+		if (i == '2')
+		{
 			while (j <= '3')
 			{
-				while ( k < '6')
+				while (k < '6')
 				{
-					while (l <= '9'){
+					while (l <= '9')
+					{
 						_putchar(i);
 						_putchar(j);
 						_putchar(':');
