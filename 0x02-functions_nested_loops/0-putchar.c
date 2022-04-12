@@ -1,17 +1,11 @@
 #include <stdio.h>
+#include "main.h"
 
 /**
  *main - main function
  *
  *Return: 0 to terminate program
  */
-
-/**
- *_putchar - prints character
- *@c: character to print
- */
-void _putchar(char c);
-
 int main(void)
 {
 	_putchar('_');
