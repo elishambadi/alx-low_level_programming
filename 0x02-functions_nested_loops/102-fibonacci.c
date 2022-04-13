@@ -19,7 +19,7 @@ int main(void)
 		}
 		else
 		{
-			printf("%ld ,", next);
+			printf("%ld, ", next);
 		}
 		n1 = n2;
 		n2 = next;
