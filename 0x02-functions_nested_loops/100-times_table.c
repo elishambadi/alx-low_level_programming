@@ -24,7 +24,8 @@ void print(int n)
 }
 
 /**
- *times_table - print 9 multi table
+ *print_times_table - print n multi table
+ @n: int to make table for
  */
 void print_times_table(int n)
 {
