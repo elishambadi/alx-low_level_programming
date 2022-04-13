@@ -13,7 +13,14 @@ int main(void)
 
 	for (i = 3; i <= 50; i++)
 	{
-		printf("%ld ,", next);
+		if (i == 50)
+		{
+			printf("%ld\n", next);
+		}
+		else
+		{
+			printf("%ld ,", next);
+		}
 		n1 = n2;
 		n2 = next;
 		next = n1 + n2;
