@@ -11,14 +11,14 @@ int main(void)
 
 	printf("%ld, %ld, ", n1, n2);
 
-	for (i = 3; i < 98; i++)
+	for (i = 3; i <= 98; i++)
 	{
 		if (next < 0)
 		{
 			next = -next;
 		}
 
-		if (i == 97)
+		if (i == 98)
 		{
 			printf("%ld\n", next);
 		}
