@@ -6,4 +6,4 @@ int mul(int a, int b);
 
 void print_numbers(void);
 
-void _putchar(char c);
+int _putchar(char c);
