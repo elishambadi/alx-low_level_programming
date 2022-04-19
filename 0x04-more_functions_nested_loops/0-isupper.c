@@ -3,7 +3,7 @@
 
 /**
  *_isupper - checks if uppercase
- &c: var to be checked
+ *@c: var to be checked
  *
  *Return: 0 if lowercase, 1 if uppercase
  */
