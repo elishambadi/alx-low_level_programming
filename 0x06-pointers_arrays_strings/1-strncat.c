@@ -6,6 +6,7 @@
  *_strncat - concatenate two string
  *@dest: first string
  *@src: string to be added
+ *@n: no of bytes to catenate
  *
  *Return: pointer of full string
  */
