@@ -1,41 +1,36 @@
-#include <stddef.h>
 #include <stdio.h>
-#include <stdlib.h>
+#include <ctype.h>
 #include <string.h>
+#include "main.h"
 
 /**
- *rot13 - rot13 cipher
- *@src: string to cipher
+ *rot13 - rot13 implementation
+ *@c: character string
  *
- *Return: ciphered string
+ *Return: character string
  */
 
-char *rot13(const char *src)
+char *rot13(char *c)
 {
-	char* result = malloc(strlen(src));
-	char* current_char = result;
+	printf("%s", c);
 
-	if(result != NULL){
-		strcpy(result, src);
-		while(*current_char != '\0'){
-			if(
-					(*current_char >= 97 && *current_char <= 122) ||
-					(*current_char >= 65 && *current_char <= 90))
-			{
-				if(
-						*current_char > 109 ||
-						(*current_char > 77 && *current_char < 91))
-				{
-					*current_char -= 13;
-				}
-				else
-				{
-					*current_char += 13;
-				}
-			}
-			current_char++;
+	int key = 13;
+	int len = strlen(c);
+	int i, j;
+
+	char alpha[26] = {'a','b','c','d','e','f','g','h','i','j','k',
+	'l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
+
+	for (i = 0; i < len; i++)
+	{
+		/**
+		 *Scroll thro characters
+		 */
+		for (j = 0; j < 26; j++)
+		{
+
 		}
 	}
-	
-	return (result);
+
+	return (c);
 }

@@ -1,0 +1,887 @@
+[33mcommit 08cb43f9ae19c85b8e076e3c2d48fc4d2b4e8110[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Sun Apr 24 13:33:18 2022 +0000
+
+    add task 2
+
+[33mcommit dacf31c076061ed7ef0c9fd8bf8f427461247324[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Sun Apr 24 13:26:47 2022 +0000
+
+    add readme file
+
+[33mcommit 7c4a5187ef467a25e0e6bced0d387de82c79ffa5[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 22 08:05:55 2022 +0000
+
+    add task 7 rewrite
+
+[33mcommit b45c543de57a80fe5daa4e7513a7b742f6f498a7[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 22 08:01:37 2022 +0000
+
+    add task 7 edited
+
+[33mcommit f49ecad60de35de38cd9169419a49f2bd6f67c08[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 22 08:00:35 2022 +0000
+
+    add task 7 edited
+
+[33mcommit b19394ba843ea137d6eb9baf884de804a1cf5a79[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 22 07:59:17 2022 +0000
+
+    add task 7
+
+[33mcommit 11f0214ed0b8bb6c98a7abc767d353d4e5cd9dd1[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 22 07:30:44 2022 +0000
+
+    add task 6 v2
+
+[33mcommit d83744d40a98e2a846e15551b59d0663e47764ab[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 22 07:29:36 2022 +0000
+
+    add task 6
+
+[33mcommit c5ab768c0a3696c5c0cd1f139c2e6d0c94e437ad[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 21 15:30:30 2022 +0000
+
+    add task 4
+
+[33mcommit 64f8227b30407f3637357e92264f81e082fc041f[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 21 15:00:15 2022 +0000
+
+    add task 3
+
+[33mcommit abe65471156833746f9e96ed0ea34bb94b59f1c6[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 21 14:51:39 2022 +0000
+
+    edit task 2 syntax v2
+
+[33mcommit 01ff2b605fd1f1b6c7e94b2d30c9d6fcd22fe87f[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 21 14:50:50 2022 +0000
+
+    edit task 2 syntax
+
+[33mcommit af82b9abdbc5657c22f09369b49b1db9a2c0454e[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 21 14:48:32 2022 +0000
+
+    use strlen with pointers
+
+[33mcommit e2782af01b83b3eb4e7c86d5c1a5b9b476c5fed6[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 21 14:39:10 2022 +0000
+
+    add task one
+
+[33mcommit 96e10807720d65f4b5e1bce53f63c60f99045d76[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 21 12:19:13 2022 +0000
+
+    add task 0 rewrite v1
+
+[33mcommit 180570479105696158e20cb5db74bdf405adcb58[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 21 12:18:35 2022 +0000
+
+    add task 0 rewrite
+
+[33mcommit 037ed1f0fbb103f8b34a69f6716910d8d4bfb6fd[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 21 12:16:31 2022 +0000
+
+    add pointers task 0
+
+[33mcommit 10724a668fdbdba8f10c99cc78c5dc4f79e22659[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 20 14:51:53 2022 +0000
+
+    add task one
+
+[33mcommit 4cf155bceca33ca14ac6f36d9f4cd0862629f23f[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 20 14:48:26 2022 +0000
+
+    add task 0 v2
+
+[33mcommit 80b284be272ce07c0942872775fdfd364fe7268f[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 20 14:44:17 2022 +0000
+
+    add a readme
+
+[33mcommit c54875da561d1dfd238a247f1b7b9b63f93f046b[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 20 14:34:17 2022 +0000
+
+    add task 0
+
+[33mcommit 4ef555a803cee0ad1700d72ccfc6eeb4b819c0d3[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 15:21:51 2022 +0000
+
+    add task 1
+
+[33mcommit 9a2666b7681b7e18e76e7226612457cd212b072e[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 15:15:56 2022 +0000
+
+    add task one
+
+[33mcommit 20d6e079f587b6291a05de2f5b8e362479196c64[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 14:48:32 2022 +0000
+
+    add task 9 rewrite
+
+[33mcommit 727dfda99220c484f8aeaa567e0a0fe19e85759b[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 14:44:30 2022 +0000
+
+    add task 9 fizz wqbuzz
+
+[33mcommit 437514ff4186b1489eb55c3e2538ecd05d58229d[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 14:31:32 2022 +0000
+
+    add task 8
+
+[33mcommit 13746c83d6567bdc1f97f2f72262b293110c6f9d[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 12:54:36 2022 +0000
+
+    add task 7
+
+[33mcommit 8e9e04f73ad6b30c35a56fd54f510d3285dda977[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 11:21:11 2022 +0000
+
+    add task6 v2
+
+[33mcommit 64fdbe2ce719659bfa16bb1ecc99888d205d6c10[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 11:17:54 2022 +0000
+
+    add task 6
+
+[33mcommit 8c66e2f997fa1840e848d137872589cd2e00bfd8[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 11:12:13 2022 +0000
+
+    add task 5 v2
+
+[33mcommit 341007f21dafe91f4c8bf0fe844a6e60b7b18a5d[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 11:08:59 2022 +0000
+
+    add task 5
+
+[33mcommit 4ae051b6b1da08826306110ec35e8e9fcf5fc446[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 10:51:24 2022 +0000
+
+    add task 4
+
+[33mcommit ae9f95c4adee82f7f22f7bd9a784428395e895b2[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 10:31:32 2022 +0000
+
+    add task 3
+
+[33mcommit f13605048e145cabb8de00e61f1780a5ead5d3e8[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 10:28:33 2022 +0000
+
+    add task 3
+
+[33mcommit 6a30befe0ab876bfedbfbe6c239f7ef4bfc2cbfa[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 10:27:40 2022 +0000
+
+    add task 5
+
+[33mcommit dec3949cdacf033e15fa1478da81b4da1ce669fe[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 10:23:36 2022 +0000
+
+    rewrite task 2
+
+[33mcommit 7a749e6e4305c3cd9fab469a9df352ed51404cd2[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 10:22:57 2022 +0000
+
+    rewrite task 2
+
+[33mcommit fc1bd0e0761832565ca7be726912b8c02edb4a6d[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 10:20:58 2022 +0000
+
+    add task 2
+
+[33mcommit 9c2a615ee5c5be2890be90a021b7cabb70db3574[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 10:16:15 2022 +0000
+
+    add task 2
+
+[33mcommit a32d176ac2712076d6bc891e1330df5950a732fb[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 08:47:13 2022 +0000
+
+    add task 1 v2
+
+[33mcommit 9f253170ed63e3961025e104f34028d7381ad501[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 19 08:46:02 2022 +0000
+
+    add task 1
+
+[33mcommit 3f9173d8a866a4b935af9fe7fee38acff6c58f8d[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 09:03:02 2022 +0000
+
+    edit task 16 v2
+
+[33mcommit ac4f55024f4c819c597d1c0c821a1bcdd9a36dc5[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 09:00:40 2022 +0000
+
+    edit task 16
+
+[33mcommit eb8c1a25eaff30eaf6fd7319c8ac45a38dc3265e[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 08:58:55 2022 +0000
+
+    add task 16
+
+[33mcommit af440b1cb1e573db423d814fdbb6480d89166828[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 08:54:24 2022 +0000
+
+    edit task 14
+
+[33mcommit 468b3ff019ebf5465cf7a37e04061cf518dbbebf[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 08:53:32 2022 +0000
+
+    add task 15
+
+[33mcommit 10763c0f4b1a94d161e02e6a2c11d1fba7ba034c[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 08:47:07 2022 +0000
+
+    edit task 14 v3
+
+[33mcommit 1d20195b86de46a4177812098803806aee95d61c[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 08:45:50 2022 +0000
+
+    edit task 14 v2
+
+[33mcommit 7c3af5d775d2d1e045a7b89fc3ed49bc7fdaed4e[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 08:44:49 2022 +0000
+
+    edit task 14
+
+[33mcommit 9b7c18c411581265854bfd97c87b67de10b348d3[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 08:42:16 2022 +0000
+
+    add task 14 v2
+
+[33mcommit 9fc0f7916b672454593ff8fe7d3feaab6a02faed[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 08:41:27 2022 +0000
+
+    add task 14
+
+[33mcommit 736657cd6466e08a9a0a95d06e12c85654ca4945[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 08:29:07 2022 +0000
+
+    add task 13 v4
+
+[33mcommit 7c58c4d9ed8a1324ff9378120fb59d55974b8903[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 08:28:30 2022 +0000
+
+    add task 13 v3
+
+[33mcommit 1ef8ab48f4c3e9ca1ca39a6f742a6b230364cd52[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 08:27:34 2022 +0000
+
+    add task 13 v2
+
+[33mcommit feef0178fc6f7e295871171f0b3c945335ba4afa[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 08:26:48 2022 +0000
+
+    add task 13
+
+[33mcommit c10e83865d0629e12ee064c37d1efa50067b6a4e[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Wed Apr 13 07:42:41 2022 +0000
+
+    add task 12
+
+[33mcommit b7874e3f1ab65281da18f7c5869278cf1bb857df[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 23:25:19 2022 +0000
+
+    add betty reqs v2
+
+[33mcommit 9ae7aa90d6079c0a3d311af32444160d47a7a644[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 23:23:23 2022 +0000
+
+    add betty docs reqs
+
+[33mcommit aa6df73ea150bd2d106869543386a72d35550320[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 23:21:24 2022 +0000
+
+    add task one file
+
+[33mcommit 9768ac51b064c2fd71d252ddecb736fc34105ba5[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 23:17:21 2022 +0000
+
+    edit print alphabet x10 v3
+
+[33mcommit 5d78e4f62da501a19f745e1892d7e3c8435ea9fd[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 23:16:41 2022 +0000
+
+    add print alphabet x10 v2
+
+[33mcommit 35cc273cf1c669e2f6ab5d8ebc23c404557a81cd[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 23:12:50 2022 +0000
+
+    add task 3 betty reqs
+
+[33mcommit c27a81c5b046550a58a8020fd77c4bb57f009086[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 23:11:37 2022 +0000
+
+    add task 4 betty reqs
+
+[33mcommit 163aa3743e24ca9009621fbc4d73a250342c6067[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 23:10:03 2022 +0000
+
+    add task 5 betty reqs
+
+[33mcommit 5c9ad01994052faf128c4debb279c14b2c8fea7c[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 23:08:29 2022 +0000
+
+    add task 6 betty reqs v2
+
+[33mcommit 1aad41293301016179e3ec9a47b4bf92122de689[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 23:07:51 2022 +0000
+
+    add task 6 betty reqs
+
+[33mcommit 96896d89b05aae53e59adb13b34577740cdf714e[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 23:05:59 2022 +0000
+
+    add task 7 v2
+
+[33mcommit 72a3006e26738f5bc7628ae017bbc487f3c0f004[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 23:04:46 2022 +0000
+
+    add task 7
+
+[33mcommit 9d2af399edde6e3ff04a8ea539bbba2c3cde50e8[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 22:59:51 2022 +0000
+
+    add task 8 betty reqs
+
+[33mcommit d49be309dcfc2c6d4fa8a7bfd31d8c233178d3d0[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 22:51:22 2022 +0000
+
+    add task 9 print v2
+
+[33mcommit 25b1a6618d9ba1e2e9670d11dca8598b3160bdad[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 22:48:01 2022 +0000
+
+    add task 9 print
+
+[33mcommit 3d3f2badad1950029b42676e0238bd3067b04a98[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 22:34:05 2022 +0000
+
+    edit betty reqs -10
+
+[33mcommit 124dde2bafdbbe5970eba28647e2eb7f74e7066d[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 22:31:33 2022 +0000
+
+    edit betty requirements v2
+
+[33mcommit e52eafaf39cc5f365a6846c8dfd11a2053875cd0[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 22:29:30 2022 +0000
+
+    edit betty requirements
+
+[33mcommit b63a6c971576c35feb9c9ed5380a5d244b664f89[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 22:26:07 2022 +0000
+
+    add task 11
+
+[33mcommit acc578dcc9363e04b0b3425ee45eab1316938182[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 18:30:35 2022 +0000
+
+    add task 10
+
+[33mcommit 52bf4c400f7b5de19c68590274e0e7bde840e286[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 15:52:55 2022 +0000
+
+    add task 8
+
+[33mcommit 4a74a32540b640ba405461537a0aee5780274a69[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 15:09:38 2022 +0000
+
+    add task 7
+
+[33mcommit e15240440c6dd3689bc04d250ee9c739461fb801[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 11:08:06 2022 +0000
+
+    add task 6
+
+[33mcommit ee74ba4e8845a073c8b553f6a270498aba7aa813[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 10:49:48 2022 +0000
+
+    add task 5
+
+[33mcommit fe11d5d22dcdb720e896101c85c34f91c59ae506[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 10:39:07 2022 +0000
+
+    add task 4
+
+[33mcommit ef9eac7dfb5e9fc0cfa316a448cff83032d528e2[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 10:34:31 2022 +0000
+
+    add task 3
+
+[33mcommit 51ec2825b415a91e2f3d3cf816f410012f9558b8[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 10:21:12 2022 +0000
+
+    add task 2
+
+[33mcommit be2914597fa2e2ae378a67dad017b62aacccb987[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 09:29:47 2022 +0000
+
+    add task 1
+
+[33mcommit ef4f285b81b6ccd4601caac6739c48e0cab98c62[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Tue Apr 12 05:44:03 2022 +0000
+
+    add task 0
+
+[33mcommit 126449131bc6118c827ec8f0d2fd7c5ebddb70cb[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Mon Apr 11 06:03:24 2022 +0000
+
+    add task 11 v2
+
+[33mcommit c0a2a5a6362ad9a8d303bceb8a4d5169151297c8[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Mon Apr 11 06:02:43 2022 +0000
+
+    add task 11
+
+[33mcommit 1f21d1f08022e0bfc623f42995d6777764545d5c[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Mon Apr 11 05:52:52 2022 +0000
+
+    add task 10 v2
+
+[33mcommit 449a40b80eeb7a73fe56a3e1efdf53509ab0a1f0[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Mon Apr 11 05:49:09 2022 +0000
+
+    add task 10
+
+[33mcommit 101bba54f25bfb87ec9ee418727d9c51ce34f15e[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Mon Apr 11 05:34:02 2022 +0000
+
+    fix grammar errors v2
+
+[33mcommit 0cdbdc36e0467f89bf2ac9b50961584b32c02861[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Mon Apr 11 05:32:00 2022 +0000
+
+    fix grammar erros
+
+[33mcommit 7874394bd4da9d562f46103471b023073e2e22a1[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Mon Apr 11 05:29:34 2022 +0000
+
+    change 101-quote file location
+
+[33mcommit 36b36e157c54d444b17a45a3efc75ff9c0cf52f6[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Mon Apr 11 05:25:15 2022 +0000
+
+    add task 8
+
+[33mcommit 56e14a1f7b7c1947a7f1fcee6411e0bd9fca52ef[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Sat Apr 9 00:16:41 2022 +0000
+
+    add task 9 code v2
+
+[33mcommit c219814972827bb0fc057c643c539611b49da6b1[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Sat Apr 9 00:09:42 2022 +0000
+
+    add task 9 code v2
+
+[33mcommit 787e5c0cea8f3e241f93d4b69dbf0044193d2e95[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Sat Apr 9 00:08:15 2022 +0000
+
+    add task 9 code
+
+[33mcommit 94008a68a671681284d25da95535a3af58c997e5[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 23:52:34 2022 +0000
+
+    add code for hex digits
+
+[33mcommit 9c9824b61cbd1848926ad0503613798a7d19a240[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 23:43:22 2022 +0000
+
+    add code for task 7 v2
+
+[33mcommit cb8015da9ccaa31e47ce0b58ef022f26be791e1e[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 23:42:29 2022 +0000
+
+    add code for task 7 v1
+
+[33mcommit 9b882a11b4ce31954f9465f68ccb4a68f8c76965[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 23:35:45 2022 +0000
+
+    add code for task 7
+
+[33mcommit 7e3932c3f196abe4686864d98d14be72763edfaa[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 23:21:58 2022 +0000
+
+    add task 6 v2
+
+[33mcommit 94998219f42d800d0a4f8bf83a04792f15338eb8[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 23:20:43 2022 +0000
+
+    add task 6 v1
+
+[33mcommit 7b2333decbd9d70a8abc7b7fc0f661f83c3d0ca0[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 23:17:50 2022 +0000
+
+    add task 6
+
+[33mcommit 963949764e2a3a611736abaf940b11d9d01f5cc7[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 23:06:23 2022 +0000
+
+    add code to print numbers
+
+[33mcommit f66a20d91adccce7c5e9b37620825b284ea26248[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 15:53:41 2022 +0000
+
+    add commanfs for task 4 v2
+
+[33mcommit 58ebf56e56e1014ed02e3417a3042939cb42e147[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 15:46:52 2022 +0000
+
+    add commanfs for task 4
+
+[33mcommit 339d787f4905903407291821eea857b5a34adae4[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 15:30:17 2022 +0000
+
+    add task 3 code v1
+
+[33mcommit 230400ed5e17fddd813625b477d9a6998f6d2a10[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 15:28:16 2022 +0000
+
+    add task 3 code
+
+[33mcommit 810f22d47804a63394dff4ec4470099b5e66834e[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 15:17:00 2022 +0000
+
+    add while loop to print alphabet v5
+
+[33mcommit 0cd319fbf759f89997387607cca1e7f72ff7b3f9[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 15:15:39 2022 +0000
+
+    add while loop to print alphabet v4
+
+[33mcommit 15b68659f5c265d3afdab52b11be88b321bcb15e[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 15:13:25 2022 +0000
+
+    add while loop to print alphabet v3
+
+[33mcommit aeef9e6da441af40a8a436bcb3ed1433ea271763[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 15:12:25 2022 +0000
+
+    add while loop to print alphabet v2
+
+[33mcommit 0ff9ebf32921d9280ca571bd7c2d98028316ad4e[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 15:05:34 2022 +0000
+
+    add while loop to print alphabet
+
+[33mcommit 293f0ed9e1b9147c09292b1630ba4bf145740b21[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 14:48:27 2022 +0000
+
+    edit task 1 command v8
+
+[33mcommit bde6926cac422cbd2896bcef521e27d77cb642ad[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 14:47:52 2022 +0000
+
+    edit task 1 command v7
+
+[33mcommit d0118ae128c6293012ca7f7d68fb1dd4344b4ef5[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 14:46:03 2022 +0000
+
+    edit task 1 command v5
+
+[33mcommit b4189ebb84687e054853e9177e8ec0fbad8824ce[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 13:31:20 2022 +0000
+
+    add function for task two v5
+
+[33mcommit 506173fb31290c521141a9d68757ed4aaaa9ecbb[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 13:30:04 2022 +0000
+
+    add function for task two v4
+
+[33mcommit 839f160e21dceed95851e2b29489bf898c870ad3[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 13:23:24 2022 +0000
+
+    add function for task two v2
+
+[33mcommit 2c725daf371fea83dd1eb2801d9cbd6d4d315415[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 13:20:15 2022 +0000
+
+    add function for task two v1
+
+[33mcommit 69ac3c94f9f9c7279b48bce7ea83fb3480488135[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 13:18:59 2022 +0000
+
+    add function for task two
+
+[33mcommit 0715dcf9ee990e808c0c42bf339cde3c778f532d[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 13:06:16 2022 +0000
+
+    edit task 0 function v4
+
+[33mcommit 53477540f90aff1ea654faeee883afcf3b4a24a7[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 13:04:34 2022 +0000
+
+    edit task 0 function v3
+
+[33mcommit 4c0ab7fc42f29b3c8bc2ac25ad93397d3ac2e130[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 12:58:19 2022 +0000
+
+    edit task 0 function v2
+
+[33mcommit dc2c7922543d336f20d6d9de63cdb8c6e814b44a[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 12:49:43 2022 +0000
+
+    edit task 0 function
+
+[33mcommit 3837a8836f81b481fc103729537476df0e349b1b[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 12:47:11 2022 +0000
+
+    edit task 0 file
+
+[33mcommit 6fefe057cbe58bd38646225e62bfe83d14a7ec4c[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 12:43:40 2022 +0000
+
+    create task 0 file
+
+[33mcommit 587f39efbf4ffe4222aec189b3324877f2f13869[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 12:42:31 2022 +0000
+
+    reinitialize files
+
+[33mcommit 3042eb118f12d63f1438d4ad041dbe02817b08ae[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Fri Apr 8 12:23:34 2022 +0000
+
+    copy 0x01-vars to proper locations
+
+[33mcommit ae66585b496ded6424849c9e537ae8fe2c3dddb7[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:54:25 2022 +0000
+
+    add to compile c code to intel dialect v2
+
+[33mcommit 5d5de2843fe19f9583e103fc867563a55056c0aa[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:53:55 2022 +0000
+
+    add to compile c code to intel dialect
+
+[33mcommit c83ec31fb421abc5ba083619e3ac6151f82574a1[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:50:37 2022 +0000
+
+    add betty coding style to task 4
+
+[33mcommit 75684e564ea1287f974ae176be8c7774912da53f[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:47:49 2022 +0000
+
+    view compile in 32 and 64 bit machines v3
+
+[33mcommit 87efdea94baadf6882ef6cffb537f648da2c7f93[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:45:59 2022 +0000
+
+    view compile in 32 and 64 bit machines v2
+
+[33mcommit aa315b739849f2189e2a2f71f8fef0171d4f10ee[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:43:02 2022 +0000
+
+    view compile in 32 and 64 bit machines
+
+[33mcommit bc2493d5add98c270c163b1abef7b2237e43de2a[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:25:51 2022 +0000
+
+    modify to follow betty coding and documentation style v3
+
+[33mcommit 7d6b1c7a58c8e5b6aa76c4eef768e3900002b52d[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:24:07 2022 +0000
+
+    modify to follow betty coding and documentation style v2
+
+[33mcommit cebd98ca5a51d40427e3b4e515b8406b284117fa[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:19:50 2022 +0000
+
+    modify to follow betty coding and documentation styel
+
+[33mcommit ec80d7b952a15fec8da34874f6f55d541d3e9bfc[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:17:01 2022 +0000
+
+    edit 5 to have new lines
+
+[33mcommit 748eb3078176bfdf2a44149adf3cc9a2ccbef76b[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:15:16 2022 +0000
+
+    add second c program
+
+[33mcommit 6288f4503293fe3d4f558af058cc7f4fdbf9370b[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:13:30 2022 +0000
+
+    my first c program
+
+[33mcommit 5e4ef3a899b98b9b9054c520e67059a8f184a3fa[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:09:11 2022 +0000
+
+    add executable file command
+
+[33mcommit af1f4c17cfd03450956dcd0629734513d87be7d0[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:06:45 2022 +0000
+
+    add gcc to compile to .s file v1
+
+[33mcommit 5f7a5bc28534c9dc63570d5034aa164e9d06a349[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 16:03:38 2022 +0000
+
+    add gcc to compile to .s file
+
+[33mcommit 82e83b55c863fb7893a96222288d4f14dde15637[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 15:57:52 2022 +0000
+
+    edit output filename issue using command substitution
+
+[33mcommit 4630c84316923df5ebe7bf816b9a7cfefedc431d[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 15:49:48 2022 +0000
+
+    add gcc -c compile without linking
+
+[33mcommit a3c08d0a0b339730dc2da0b0c501829763625266[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 15:44:02 2022 +0000
+
+    add gcc command for C compiler
+
+[33mcommit 321dcd023d2981b6e174394c525b987f8f1d1d68[m
+Author: elishambadi <embadi43@gmail.com>
+Date:   Thu Apr 7 15:38:16 2022 +0000
+
+    initial commit
