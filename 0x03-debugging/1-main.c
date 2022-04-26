@@ -1,8 +1,9 @@
 #include <stdio.h>
+#include "main.h"
 
 /**
-* main - causes an infinite loop
-* Return: 0
+*main - causes an infinite loop
+*Return: 0 to terminate
 */
 
 int main(void)
@@ -17,7 +18,7 @@ int main(void)
         *{
 	*	putchar(i);
 	*/
-	
+
 	printf("Infinite loop avoided! \\o/\n");
 
 	return (0);
