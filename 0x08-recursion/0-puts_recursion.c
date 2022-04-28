@@ -12,11 +12,14 @@ void _puts_recursion(char *s)
 	int len = strlen(s);
 	int i = 0;
 
-	while (i <= len)
+	if (i != len)
 	{
 		_putchar(*(s + i));
 		i++;
+		_puts_recursion(s + i);
 	}
-
-	_putchar('\n');
+	else
+	{
+		_putchar('\n');
+	}
 }
