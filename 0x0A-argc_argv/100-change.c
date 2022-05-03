@@ -8,13 +8,13 @@
  *@argc: argc
  *@argv: argv
  *
- *Return: 0
+ *Return: 0 to terminate or 1 for error
  */
 
 int main(int argc, char *argv[])
 {
 	int count = 0;
-	int cents __attribute__((unused))= 0;
+	int cents __attribute__((unused)) = 0;
 
 	if (argc > 1)
 	{
@@ -32,6 +32,7 @@ int main(int argc, char *argv[])
 		printf("0\n");
 		return (0);
 	}
+
 	else
 	{
 		if (cents / 25 != 0)
