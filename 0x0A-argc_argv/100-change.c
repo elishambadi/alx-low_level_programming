@@ -15,15 +15,16 @@ int main(int argc, char *argv[])
 {
 	int count = 0;
 	int cents __attribute__((unused))= 0;
+
 	if (argc > 1)
 	{
 		cents = atoi(argv[1]);
 	}
 
-	if (argc == 1)
+	if (argc != 2)
 	{
 		printf("Error\n");
-		return (0);
+		return (1);
 	}
 
 	else if (cents < 0)
