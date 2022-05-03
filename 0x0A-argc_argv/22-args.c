@@ -10,13 +10,7 @@
 
 int main(int argc, char *argv[])
 {
-	int argc1 __attribute__((unused)) = argc;
-	int i;
-
-	for (i = 1; i < argc; i++)
-	{
-		printf("%s\n", argv[i]);
-	}
-
+	char *argv1 __attribute__((unused)) = *argv;
+	printf("%d\n", argc - 1);
 	return (0);
 }
