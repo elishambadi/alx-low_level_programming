@@ -30,6 +30,7 @@ int main(int argc, char *argv[])
 	else if (cents < 0)
 	{
 		printf("0\n");
+		return (0);
 	}
 	else
 	{
@@ -56,7 +57,7 @@ int main(int argc, char *argv[])
 		{
 			count += cents / 1;
 		}
-	}	
+	}
 
 	printf("%d\n", count);
 	return (0);
