@@ -1,1 +1,5 @@
-void _puts(char *s);
+#include <stdio.h>
+void _puts(char *s)
+{
+	printf("%s", s);
+}
