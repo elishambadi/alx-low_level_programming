@@ -1,5 +1,6 @@
 #include <string.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  *create_array - create an array with malloc
@@ -11,14 +12,14 @@
 
 char *create_array(unsigned int size, char c)
 {
-	if (size = 0)
+	if (size == 0)
 	{
 		return (NULL);
 	}
 
 	char *str = malloc(sizeof(char) * size);
 
-	if (str = NULL)
+	if (str == NULL)
 	{
 		return (NULL);
 	}
