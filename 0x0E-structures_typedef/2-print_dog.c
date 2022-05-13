@@ -2,7 +2,7 @@
 #include "dog.h"
 
 /**
- *print_dog - initialize
+ *print_dog - initialize dog
  *@d: dog struct
  */
 
