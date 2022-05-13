@@ -3,7 +3,8 @@
 
 /**
  *print_dog - initialize dog
- *@d: dog struct
+ *@struct d: dog struct
+ *Return: void
  */
 
 void print_dog(struct dog *d)
