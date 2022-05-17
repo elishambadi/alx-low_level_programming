@@ -3,7 +3,7 @@
 
 /**
  *sum_them_all - sum all vars
- *@n - no of vars
+ *@n: no of vars
  *
  *Return: sum
  */
