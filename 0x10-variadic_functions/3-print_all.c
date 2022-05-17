@@ -3,14 +3,13 @@
 #include "variadic_functions.h"
 
 /**
- *print_strings - print nums
- *@n: no of vars
- *@separator: separator of nums
+ *print_all - print everything
+ *@format: various format
  *
  *Return: void
  */
 
-void print_strings(const char *separator, const unsigned int n, ...)
+void print_all(const char * const format, ...)
 {
 	unsigned int i;
 	va_list ap;
@@ -28,7 +27,9 @@ void print_strings(const char *separator, const unsigned int n, ...)
 	{
 		str = va_arg(ap, char*);
 		if (str == NULL)
+		{
 			str = "(nil)";
+		}
 
 		if (separator != NULL)
 		{
