@@ -3,7 +3,7 @@
 #include "lists.h"
 
 /**
- *lis_tlen - return list length
+ *list_len - return list length
  *@h: list head pointer
  *
  *Return: list length
