@@ -13,7 +13,7 @@ size_t print_list(const list_t *h)
 {
 	unsigned int i;
 
-	i = 1;
+	i = 0;
 
 	while (h != NULL)
 	{
