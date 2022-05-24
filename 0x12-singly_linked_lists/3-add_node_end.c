@@ -22,6 +22,11 @@ list_t *add_node_end(list_t **head, const char *str)
 	strcpy(string, str);
 
 	node = malloc(sizeof(list_t));
+
+	if (node == NULL)
+	{
+		return (NULL);
+	}
 	len = strlen(string);
 
 	node->str = string;
