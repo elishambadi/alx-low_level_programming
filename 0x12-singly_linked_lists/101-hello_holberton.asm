@@ -1,22 +1,15 @@
-section .data
-	string1 db 0xa, " Hello Holberton\n", 0xa, 0xa, 0
+	SECTION .data
+msg:	db "Hello, Holberton", 0
+fmt:	db "%s", 10, 0
 
-section .text
-	global _start
+	SECTION .text
+	extern printf
+	global main
+main:
+	mov esi, msg
+	mov edi, fmt
+	mov eax, 0
+	call printf
 
-	_start:
-		;
-		mov	rdi, string1	;
-		xor	rcx, rcx	;
-		not	rcx		;
-		xor 	al, al		;
-		cld			;
-		repnz	scasb		;
-		not	rcx		;
-		dec	rcx		;
-		mov	rdx, rcx	;
-		;
-		mov	rsi, string1	;
-		mov	rax, 1		;
-		mov	rdi, rax	;
-		syscall			;
+	mov eax, 0
+	ret
