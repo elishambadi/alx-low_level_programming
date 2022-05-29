@@ -15,7 +15,6 @@ void free_listint2(listint_t **head)
 	listint_t *temp, *node;
 
 	node = *head;
-	printf("Node pointer: %p", (void *) node);
 
 	while (node != NULL)
 	{
