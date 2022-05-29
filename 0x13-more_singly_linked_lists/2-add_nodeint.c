@@ -4,8 +4,9 @@
 #include "lists.h"
 
 /**
- *listint_len - print all elements on list
- *@h: list var
+ *add_nodeint - add a node
+ *@head: list var
+ *@n: node data
  *
  *Return: length
  */
