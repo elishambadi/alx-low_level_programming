@@ -18,7 +18,7 @@ struct dog
 
 /**
  *init_dog - initialize dog
- *@d - dog struct
+ *@d: dog struct
  *@name: dog name
  *@age: age
  *@owner: owner
