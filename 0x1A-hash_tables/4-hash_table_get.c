@@ -1,11 +1,11 @@
 #include "hash_tables.h"
 
 /**
- * hash_table_get - Get a value from the hash table.
- * @ht: Hash table.
- * @key: Key.
+ * hash_table_get - retrieve value from hash table
+ * @ht: the hash table
+ * @key: key to value
  *
- * Return: The value if works, NULL if doesn't.
+ * Return: value found or NULL
  */
 char *hash_table_get(const hash_table_t *ht, const char *key)
 {
