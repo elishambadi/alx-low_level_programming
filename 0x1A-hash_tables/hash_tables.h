@@ -42,9 +42,9 @@ typedef struct hash_table_s
  */
 void free_node(hash_node_t *node)
 {
-        free(node->key);
-        free(node->value);
-        free(node);
+	free(node->key);
+	free(node->value);
+	free(node);
 }
 
 hash_table_t *hash_table_create(unsigned long int size);
