@@ -8,9 +8,9 @@
  */
 void free_node(hash_node_t *node)
 {
-        free(node->key);
-        free(node->value);
-        free(node);
+	free(node->key);
+	free(node->value);
+	free(node);
 }
 
 
