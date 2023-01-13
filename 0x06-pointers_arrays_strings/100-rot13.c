@@ -1,36 +1,27 @@
-#include <stdio.h>
-#include <ctype.h>
-#include <string.h>
 #include "main.h"
 
 /**
- *rot13 - rot13 implementation
- *@c: character string
+ * rot13 - encodes a string into rot13
+ * @s: string to encode
  *
- *Return: character string
+ * Return: address of s
  */
-
-char *rot13(char *c)
+char *rot13(char *s)
 {
-	printf("%s", c);
-
-	int key = 13;
-	int len = strlen(c);
 	int i, j;
+	char a[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	char b[] = "nopqrstuvwxyzabcdefghijklmNOPQRSTUVWXYZABCDEFGHIJKLM";
 
-	char alpha[26] = {'a','b','c','d','e','f','g','h','i','j','k',
-	'l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
-
-	for (i = 0; i < len; i++)
+	for (i = 0; *(s + i); i++)
 	{
-		/**
-		 *Scroll thro characters
-		 */
-		for (j = 0; j < 26; j++)
+		for (j = 0; j < 52; j++)
 		{
-
+			if (a[j] == *(s + i))
+			{
+				*(s + i) = b[j];
+				break;
+			}
 		}
 	}
-
-	return (c);
+	return (s);
 }
