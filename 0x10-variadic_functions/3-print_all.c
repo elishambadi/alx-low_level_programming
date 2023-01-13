@@ -1,49 +1,51 @@
-#include <stdarg.h>
-#include <stdio.h>
 #include "variadic_functions.h"
 
 /**
- *print_all - print everything
- *@format: various format
- *
- *Return: void
+ * print_all - Prints all of the arguments when specified
+ * @format: specifies the necessary operations
+ * Return: void
  */
 
 void print_all(const char * const format, ...)
 {
-	unsigned int i;
-	va_list ap;
-	char* str;
+	int i;
+	int flag;
+	char *str;
+	va_list a_list;
 
-	if (n == 0)
+	va_start(a_list, format);
+	i = 0;
+	while (format != NULL && format[i] != '\0')
 	{
-		printf("\n");
-		return;
-	}
-
-	va_start(ap, n);
-
-	for (i = 0; i < n; i++)
-	{
-		str = va_arg(ap, char*);
-		if (str == NULL)
+		switch (format[i])
 		{
-			str = "(nil)";
-		}
-
-		if (separator != NULL)
-		{
-			if (i == n - 1)
+			case 'c':
+				printf("%c", va_arg(a_list, int));
+				flag = 0;
+				break;
+			case 'i':
+				printf("%i", va_arg(a_list, int));
+				flag = 0;
+				break;
+			case 'f':
+				printf("%f", va_arg(a_list, double));
+				flag = 0;
+				break;
+			case 's':
+				str = va_arg(a_list, char*);
+				if (str == NULL)
+					str = "(nil)";
 				printf("%s", str);
-			else
-				printf("%s%s", str, separator);
+				flag = 0;
+				break;
+			default:
+				flag = 1;
+				break;
 		}
-		else
-		{
-			printf("%s", str);
-		}
+		if (format[i + 1] != '\0' && flag == 0)
+			printf(", ");
+		i++;
 	}
-	va_end(ap);
-
 	printf("\n");
+	va_end(a_list);
 }
