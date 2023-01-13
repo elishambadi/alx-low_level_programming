@@ -1,43 +1,37 @@
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
 #include "lists.h"
+#include <stdlib.h>
 
 /**
- *delete_nodeint_at_index - find node at index
- *@head: list head
- *@index: index of node
+ * delete_nodeint_at_index - deletes the node at index
+ * @head: double pointer
+ * @index: index of node
  *
- *Return: node found
+ * Return: pointer to the index node
  */
-
-int delete_nodeint_at_index(listint_t **head, unsigned int idx)
+int delete_nodeint_at_index(listint_t **head, unsigned int index)
 {
 	unsigned int i;
-	listint_t *node, *prev;
+	listint_t *temp, *next;
 
-	node = malloc(sizeof(node));
-	prev = malloc(sizeof(prev));
-	if (node == NULL || prev == NULL)
+	if (head == NULL || *head == NULL)
 		return (-1);
-
-	node = *head;
-	i = 0;
-
-	while (node != NULL)
+	if (index == 0)
 	{
-		if (idx == i - 1)
-			prev = node;
-		if (idx == i)
-		{
-			prev->next = node->next;
-			printf("Deleting node...");
-			free(node);
-			return (1); 
-		}
-		node = node->next;
-		i++;
+		next = (*head)->next;
+		free(*head);
+		*head = next;
+		return (1);
 	}
+	temp = *head;
+	for (i = 0; i < index - 1; i++)
+	{
+		if (temp->next == NULL)
+			return (-1);
+		temp = temp->next;
+	}
+	next = temp->next;
+	temp->next = next->next;
+	free(next);
+	return (1);
 
-	return (-1);
 }
