@@ -1,2 +1,1 @@
-#0x17 Doubly Linked Lists in C
-
+0x17-doubly_linked_lists
